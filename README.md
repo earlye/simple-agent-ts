@@ -43,7 +43,7 @@ Write and then evaluate a javascript function that returns the nth distinct numb
 ```
 
 ```
-Write a javascript generator function that yields the distinct numbers in the Fibonacci sequence. Use this generator function to build an array with the first 10 distinct numbers in the Fibonacci sequence and return that array to yourself as JSON. Do not think through what the result will be or look at previous chat history. I am testing whether you use the javascript evaluation tool properly. Again, DO NOT THINK ABOUT THE RESULT.
+Write a javascript generator function that yields the distinct numbers in the Fibonacci sequence. Use this generator function to build an array with the first 10 distinct numbers in the Fibonacci sequence and return that array to yourself as JSON. Achieve this with O(1) memory complexity and O(n) time complexity. Do not think through what the result will be or look at previous chat history. I am testing whether you use the javascript evaluation tool properly. Again, DO NOT THINK ABOUT THE RESULT.
 ```
 
 For fairly obvious security reasons, do not run the javascriptTool
